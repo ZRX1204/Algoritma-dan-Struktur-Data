@@ -13,7 +13,7 @@ public class Sort {
 		long end;
 		start = System.currentTimeMillis();
 		BufferedReader data = new BufferedReader(new InputStreamReader(System.in));
-		int angka[] = {32, 12, 44, 72, 90, 10};
+		int angka[] = {32, 12, 44, 72, 10, 90};
 		int min = angka[0];
 		int index = 0;
 		
